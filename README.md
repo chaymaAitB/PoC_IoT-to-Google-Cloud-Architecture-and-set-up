@@ -10,8 +10,13 @@ A production-style Proof of Concept (PoC) demonstrating a secure IoT data pipeli
 This project simulates an IoT device publishing telemetry data securely to Google Cloud.
 
 ---
-
 # Architecture Overview
+
+![IoT GCP Architecture](iot_gcp_architecture.png)
+
+---
+
+# Architecture of PoC
 
 IoT Device (Simulator)
 → Pub/Sub Topic
